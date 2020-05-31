@@ -1,4 +1,4 @@
-# CatApp
+# CatApp testing
 
 Nodejs demo app for running a cloud native Tekton Pipeline.
 
